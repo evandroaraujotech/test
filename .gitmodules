@@ -1,0 +1,3 @@
+[submodule "src/spocketUI"]
+	path = src/spocketUI
+	url = git@github.com:spocket-co/spocket-ui.git
